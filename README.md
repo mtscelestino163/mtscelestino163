@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Mateus!👋
 
 <!--
 **mtscelestino163/mtscelestino163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 Estudante de Engenharia da computação <br>
+🌱 Aprendendo desenvolvimento web <br>
+💻 HTML · CSS · JAVASCRIPT <br>
+🔎 Busco estágio na área de TI <br>
+⚡ Apaixonado por tecnologia
